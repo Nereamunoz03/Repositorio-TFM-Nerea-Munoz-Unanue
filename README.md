@@ -1,4 +1,4 @@
-# Material suplementario y código fuente
+# TFM_Alternative_Splicing_KIRC
 
 Repositorio asociado al Trabajo Fin de Máster:
 
