@@ -8,6 +8,10 @@ Este repositorio contiene el código fuente desarrollado durante el análisis bi
 
 Autor: Nerea Muñoz Unanue
 
+Director: Ricardo Blazquez Encinas
+
+Tipo de trabajo:	Redacción de trabajo original relacionado con bases de datos públicas
+
 Universidad Internacional de La Rioja (UNIR)
 
 Máster Universitario en Bioinformática
