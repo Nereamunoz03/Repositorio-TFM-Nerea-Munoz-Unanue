@@ -2,8 +2,8 @@
 # Trabajo Fin de Máster
 # Máster Universitario en Bioinformática - UNIR
 #
-# Título: Análisis del splicing alternativo asociado a la progresión tumoral
-#          en carcinoma renal de células claras mediante RNA-seq
+# Título: Análisis multiómico de expresión génica y splicing alternativo en 
+#         carcinoma renal de células claras (KIRC).
 #
 # Script: 02_initial_exploration_descriptive_plots.R
 # Correspondiente al apartado: 3.2.1. Análisis exploratorio inicial y
